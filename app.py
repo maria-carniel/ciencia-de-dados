@@ -1,3 +1,3 @@
-import aula02 as aulas02 
+import aula03 as aula03
 
-aulas02.exibirGrafico() 
+aula03.exibirGrafico()
